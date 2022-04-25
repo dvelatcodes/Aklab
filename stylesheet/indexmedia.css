@@ -1,0 +1,1933 @@
+@media screen and (max-width: 1248px)  {
+    .welcomme__left__h1 {
+        font-size: 2rem;
+    }
+
+    .welcomme__left__h1 > span {
+        right: 8rem;
+    }
+
+    .partners__coca__img, 
+    .partners__cusson__img, 
+    .partners__guinness__img, 
+    .partners__nb__img, 
+    .partners__oando__img, 
+    .partners__nutri__img { 
+        width: 120px;
+        height: 120px;
+    }
+
+    .partners__guinness:hover .partners__guinness__img,
+    .partners__nb:hover .partners__nb__img,
+    .partners__oando:hover .partners__oando__img,
+    .partners__nutri:hover .partners__nutri__img {
+    width: 130px;
+    height: 130px;
+    }
+
+    .partners__coca__text, 
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text{
+    padding-left: 8.6rem;
+    }
+
+    .partners__coca:hover .partners__coca__text {
+        padding-left: 9.5rem;
+    }
+
+}
+
+
+@media screen and (max-width: 1155px) {
+    .clipsect__h3 {
+       border: unset;
+    }
+
+    .clipsect__h4 {
+        text-indent: 2rem;
+    }
+
+    .partners__guinness:hover .partners__guinness__img,
+    .partners__nb:hover .partners__nb__img,
+    .partners__oando:hover .partners__oando__img,
+    .partners__nutri:hover .partners__nutri__img {
+    width: 110px;
+    height: 110px;
+    }
+
+    .partners__coca__img,
+    .partners__cusson__img {
+        width: 140px;
+        height: 140px;
+    }
+
+    .partners__coca:hover .partners__coca__img,
+    .partners__cusson:hover .partners__cusson__img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .partners__coca__text, 
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text{
+    padding-left: 7.4rem;
+    }
+
+    .partners__coca:hover .partners__coca__text {
+        padding-left: 7.5rem;
+    }
+
+    .partners__cusson:hover .partners__cusson__text {
+        padding-left: 7.2rem;
+    }
+
+    .form1__form form label {
+        margin: 1.2rem 0 0 1rem;
+    }
+
+    #first, #last {
+        margin: 0.6rem 0 0 1rem;
+    }
+
+    .form1__form form label textarea {
+        width: 24.9rem;
+    }
+
+    .gallery__a {
+        right: 6rem;
+    }
+    
+    footer {
+        height: 27vh;
+    }
+}
+
+@media screen and (min-width: 1044px) and (max-width: 1082px) {
+    .clipsect__bottom__h1 {
+        font-size: 4rem;
+    }
+    .clipsect__bottom__buttons__1 {
+        margin-right: unset;
+        right: 2rem;
+        top: 1rem;
+        position: absolute;
+        height: 8vh;
+    }
+    .clipsect__bottom__buttons__2 {
+        margin-right: unset;
+        right: 2rem;
+        bottom: 1rem;
+        position: absolute;
+        height: 8vh;
+    }
+    .partners__guinness:hover .partners__guinness__img,
+    .partners__nb:hover .partners__nb__img,
+    .partners__oando:hover .partners__oando__img,
+    .partners__nutri:hover .partners__nutri__img {
+    width: 90px;
+    height: 90px;
+    }
+
+    .partners__coca:hover .partners__coca__img,
+    .partners__cusson:hover .partners__cusson__img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .partners__coca__text, 
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text{
+    padding-left: 6.2rem;
+    }
+
+    .partners__coca:hover .partners__coca__text {
+        padding-left: 6.2rem;
+    }
+
+    .partners__cusson:hover .partners__cusson__text {
+        padding-left: 6.1rem;
+    }
+
+    .inspire__content__h1 {
+        right: -1rem;
+    }
+}
+
+@media screen and (max-width: 1045px) {
+    .s5 a {
+        font-size: 0.9rem;
+    }
+    .clipsect__bottom__h1 {
+        font-size: 2.5rem;
+    }
+
+    .welcome__content {
+        max-height: max-content;
+    }
+    .welcome__left {
+        height: 100%;
+        margin-top: 1.3rem;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 1.5rem;
+        margin-top: 0.8rem;
+    }
+    .welcome__right  {
+        width: 45%;
+        height: max-content;
+    }
+
+    .partners__guinness:hover .partners__guinness__img,
+    .partners__nb:hover .partners__nb__img,
+    .partners__oando:hover .partners__oando__img,
+    .partners__nutri:hover .partners__nutri__img {
+    width: 70px;
+    height: 70px;
+    }
+
+    .partners__coca:hover .partners__coca__img,
+    .partners__cusson:hover .partners__cusson__img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .partners__coca__text, 
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text{
+    padding-left: 4.9rem;
+    }
+
+    .partners__coca:hover .partners__coca__text {
+        padding-left: 4.5rem;
+    }
+
+    .partners__cusson:hover .partners__cusson__text {
+        padding-left: 4.5rem;
+    }
+
+    .inspire__content__h1 {
+        right: -1rem;
+    }
+
+    .form1__form form label {
+        margin: 1.2rem 0 0 0.1rem;
+    }
+
+    #first, #last {
+        margin: 0.6rem 0 0 0.1rem;
+    }
+
+    .form1__form form label textarea {
+        width: 23.9rem;
+    }
+
+    .footer__img {
+        width: 170px;
+        height: 100px;
+    }
+}
+
+
+@media screen and (max-width: 971px) {
+    .welcome {
+        height: max-content;
+    }
+
+    .welcome__content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .welcome__left {
+        width: 80%;
+        height: 60vh;
+        margin: 1.5rem 0 1rem 0;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .welcomme__left__h1 > span {
+        right: 0;
+        left: 0;
+        width: 30vw;
+    }
+
+    .welcomme__left__h5 {
+        font-size: 1.3rem;
+    }
+
+    .welcome__right {
+        width: 50%;
+        height: max-content;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: rgb(43, 142, 255);
+        margin-bottom: 1rem;
+    }
+
+    .welcome__right__h1 {
+        text-indent: unset;
+        font-size: 1.2rem;
+        color: white;
+    }
+
+    .welcome__right dt {
+        font-size: 0.9rem;
+        width: 100%;
+        color: black;
+    }
+    
+    .welcome__right dl {
+         margin-top: unset;
+         line-height: 1.3rem;
+         width: 100%;
+         color: white;
+    }
+
+    .partners__coca:hover .partners__coca__img,
+    .partners__cusson:hover .partners__cusson__img,
+    .partners__guinness:hover .partners__guinness__img,
+    .partners__nb:hover .partners__nb__img,
+    .partners__oando:hover .partners__oando__img,
+    .partners__nutri:hover .partners__nutri__img {
+        opacity: 0;
+        transition: all 1s ease-out;
+    }
+
+    .partners__coca__text, 
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text{
+    padding-left: 2rem;
+    }
+
+    .partners__coca:hover .partners__coca__text {
+        padding-left: 2rem;
+    }
+
+    .partners__cusson:hover .partners__cusson__text {
+        padding-left: 2rem;
+    }
+
+    .main-contact  h1:nth-of-type(1) {
+        font-size: 2.5rem;
+    }
+    .form1 {
+        top: 20.9rem;
+        width: 100%;
+        max-width: 1440px;
+        height: 150vh;
+    }
+
+    .form1__info {
+        width: 45%;
+    }
+
+    .form1__form  {
+        height: max-content;
+        padding-bottom: 1rem;
+    }
+
+    .form1__form form label input {
+        width: 17rem;
+        height: 3rem;
+    }
+    
+    .form1__form form {
+        justify-content: space-around;
+    }
+    
+    .form1__form form label textarea {
+        width: 18rem;
+    }
+
+    .info1 i {
+        display: block;
+    }
+    .form1__form form label {
+        margin-left:0;
+    }
+
+    .form1__form__btn {
+        width: 8rem;
+    }
+
+    .inspire__content__h1 {
+        right: -1rem;
+    }
+}
+
+@media screen and (max-width: 936px) {
+    .s1 a {
+        font-size: 0.9rem;
+    }
+    .s5 a{
+        margin-left: unset;
+    }
+
+    .clients__li a {
+        margin-left: 0.5rem;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+ }
+
+ @media screen and (max-width: 870px) {
+    .welcomme__left__h1 {
+        font-size: 1.8rem;
+    }
+    .welcomme__left__h5 {
+        font-size: 1.1rem;
+    } 
+ }
+
+@media screen and (max-width: 832px) {
+    .clipsect__bottom{
+        height: 32vh;
+    }
+.subhead__nav {
+    display: none;
+}
+
+.hidden {
+    display: block;
+}
+
+.clipsect__top {
+    display: none;
+}
+
+.clipsect__bottoms__h1 {
+display: block;
+}
+
+.clipsect__bottom__h1 {
+    display: none;
+}
+
+.subhead__logo {
+    margin-left: 1.5rem;
+}
+
+.clipsect {
+    top: 30rem;
+}
+
+.hamburger-cover {
+    float: right;
+    height: 12vh;
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.ham1 {
+    position: absolute;
+    border-radius: 5px;
+    background: rgb(11, 109, 255);
+    width: 6vw;
+    height: 4px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 28px;
+    margin: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+.ham2 {
+    border-radius: 5px;
+    background: rgb(11, 109, 255);
+    width: 6vw;
+    height: 4px;
+}
+
+.ham3 {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 5px;
+    background: rgb(11, 109, 255);
+    width: 6vw;
+    height: 4px;
+    transition: all 0.5s ease-in-out;
+ }
+
+ .aside {
+    width: 100vw;
+    max-width: 1440px;
+    height: 100vh;
+    background: rgb(32, 31, 31);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: translateY(-100%);
+    transition: transform 1s ease-in-out;
+  }
+
+  .logo__img {
+      position: relative;
+      width: 7rem;
+      height: 50px;
+      top: 1rem;
+      left: 1rem;
+  }
+
+  .nav__ul {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    max-width: 1440px;
+    height: 100%;
+    padding-top: 1rem;
+  }
+
+  .nav__ul__li1,
+  .nav__ul__li2,
+  .nav__ul__li3,
+  .nav__ul__li4 {
+    list-style-type: none;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    height: 21vh;
+    width: 100%;
+  }
+
+  .nav__ul__li1 a,
+  .nav__ul__li2 a,
+  .nav__ul__li3 a,
+  .nav__ul__li4 a {
+    text-decoration: none;
+    color: white;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+  }
+
+  .nav__ul__li1 a:hover,
+  .nav__ul__li2 a:hover,
+  .nav__ul__li3 a:hover,
+  .nav__ul__li4 a:hover {
+      color: rgb(11, 109, 255);
+      transition: all 0.5s ease-in-out;
+  }
+
+  .lines1, .lines2, .lines3, .lines4 {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 2.6rem;
+      width: 22.5vw;
+      height: 3px;
+      background: rgb(11, 109, 255);
+      transform: scaleX(0);
+      transition: all 0.4s ease-in-out;
+  }
+
+  .lines2 {
+    width: 27.7vw;
+  } 
+  
+  .lines3 {
+    width: 24vw;
+  }
+  
+  .lines4 {
+    width: 21vw;
+  }
+
+  .nav__ul__li1 a:hover > .lines1,
+  .nav__ul__li2 a:hover > .lines2,
+  .nav__ul__li3 a:hover > .lines3,
+  .nav__ul__li4 a:hover > .lines4 {
+    transform: scaleX(100%);
+  }
+
+.a, .s, .c, .p {
+    position: absolute;
+    width: 77%;
+    left: 0;
+    right: 0;
+    top: -16rem;
+    bottom: 0;
+    margin: auto;
+    color: white;
+    z-index: -1;
+    font-size: 45rem;
+    opacity: 0;
+    font-weight: bold;
+}
+
+.a {
+    font-size: 57rem;
+    top: -26rem;
+}
+
+.nav__ul__li1 a:hover ~ .a {
+    opacity: 0.05;
+    transition: all 1s ease-in-out;
+}
+
+.s {
+    font-size: 51.5rem;
+    top: -31rem;
+    width: 59%;
+}
+
+.nav__ul__li2 a:hover ~ .s {
+    opacity: 0.05;
+    transition: all 1s ease-in-out;
+}
+
+.c {
+    font-size: 51.5rem;
+    top: -39rem;
+    width: 72%;
+}
+
+.nav__ul__li3 a:hover ~ .c {
+    opacity: 0.05;
+    transition: all 1s ease-in-out;
+}
+
+.p {
+    font-size: 52rem;
+    top: -47rem;
+    width: 59%;
+}
+
+.nav__ul__li4 a:hover ~ .p {
+    opacity: 0.05;
+    transition: all 1s ease-in-out;
+}
+
+.press-left {
+    display: block;
+    height: 8vh;
+    clip-path: polygon(40% 0%, 40% 20%, 100% 20%, 100% 80%, 40% 80%, 40% 100%, 0% 50%);
+    position: absolute;
+    top: 14.5rem;
+    bottom: 0;
+    left: 1rem;
+    width: 6vw;
+    background: white;
+    z-index: 38;
+    cursor: pointer;
+    display: none;
+}
+
+.press-right {
+    display: block;
+    height: 8vh;
+    clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+    position: absolute;
+    top: 14rem;
+    bottom: 0;
+    right: 2rem;
+    width: 6vw;
+    background: white;
+    z-index: 38;
+    cursor: pointer;
+}
+
+.press-right:hover,
+.press-left:hover {
+    background: rgb(11, 109, 255);
+}
+
+.media1 {
+    width: 100vw;
+    max-width: 1440px;
+    height: 80vh;
+    display: unset;
+    flex-wrap: unset;
+    flex-direction: unset;
+    position: fixed;
+    z-index: 40;
+}
+
+ .shadow {
+    width: 100%;
+    max-width: 1440px;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: black;
+    opacity: 0.3;
+    z-index: 34;
+    display: block;
+ }
+
+ .img-info {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 36;
+}
+
+.img-info h1 {
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 2.1rem;
+    word-spacing: 1px;
+    font-weight: bold;
+    position: absolute;
+    top: 8rem;
+    left: 2rem;
+    width: 45vw;
+    line-height: 2.7rem;
+}
+
+.img-info h5 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    position: absolute;
+    bottom: 5rem;
+    width: 40vw;
+    right: 1rem;
+}
+
+  .media1__pic1,
+  .media1__pic2,
+  .media1__pic3,
+  .media1__pic4 {
+      display: none;
+  }
+
+  .media1__pic1 {
+    background-image: url("../Assets/a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    z-index: 20;
+    animation: change1 60s infinite;
+    display: block;
+}
+
+@keyframes change1 {
+    0% {
+        background-image: url("../Assets/a.jpg");
+    }
+    50% {
+        background-image: url("../Assets/pexels-magda-real-2569839.jpg");
+    }
+    100% {
+        background-image: url("../Assets/a.jpg");
+    }
+}
+
+.media1__pics2 {
+    background-image: url("../Assets/red.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    animation: change2 60s infinite;
+    z-index: 22;
+    display: block;
+}
+
+@keyframes change2 {
+    0% {
+        background-image: url("../Assets/red.jpg");
+    }
+    50% {
+        background-image: url("../Assets/capacitors-gad7f55c55_640.jpg");
+    }
+    100% {
+        background-image: url("../Assets/red.jpg");
+    }
+}
+
+.media1__pics3 {
+    background-image: url("../Assets/as.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    animation: change3 60s infinite;
+    z-index: 24;
+    display: block;
+}
+@keyframes change3 {
+    0% {
+        background-image: url("../Assets/as.jpg");
+    }
+    50% {
+        background-image: url("../Assets/pexels-joseph-fuller-5580135.jpg");
+    }
+    100% {
+        background-image: url("../Assets/as.jpg");
+    }
+}
+
+.media1__pics4 {
+    background-image: url("../Assets/pexels-bidvine-1249611.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    animation: change4 60s infinite;
+    z-index: 26;
+    display: block;
+}
+
+@keyframes change4 {
+    0% {
+        background-image: url("../Assets/pexels-bidvine-1249611.jpg");
+    }
+    50% {
+        background-image: url("../Assets/pexelsss.jpg");
+    }
+    100% {
+        background-image: url("../Assets/pexels-bidvine-1249611.jpg");
+    }
+}
+
+.clipsect__bottoms__h1 {
+    font-size: 2rem;
+}
+
+.partners__coca:hover .partners__coca__text, 
+.partners__cusson:hover .partners__cusson__text, 
+.partners__guinness:hover .partners__guinness__text, 
+.partners__nb:hover .partners__nb__text, 
+.partners__oando:hover .partners__oando__text, 
+.partners__nutri:hover .partners__nutri__text{
+padding-left: 0.5rem;
+}
+
+.main-contact  h1:nth-of-type(1) {
+    font-size: 2rem;
+    margin: 6rem 0 0.3rem 0;
+}
+
+.form1 {
+    flex-direction: column;
+    justify-content: unset;
+    min-height: 190vh;
+}
+
+.form1__info {
+    width: 65%;
+    min-height: 60vh;
+    height: max-content;
+    margin-top: 3rem;
+}
+
+.form1__info h1 {
+font-size: 2rem;
+}
+.form1__info h4 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.form1__form {
+    width: 70%;
+    height: max-content;
+    margin-top: 2rem;
+}
+
+.form1__form form label input {
+    width: 14rem;
+}
+
+.form1__form form label textarea {
+    width: 27rem;
+}
+
+.summary__content h1 {
+    font-size: 2.1rem;
+}
+
+.gallery__clip {
+    width: 20%;
+    height: 40%;
+}
+
+.gallery__a {
+    font-size: 1.9rem;
+    right: 3.5rem;
+    padding-left: 0;
+    width: 10rem;
+}
+
+.welcome {
+    top: 20.5rem;
+}
+
+.partners {
+    top: 20.5rem;
+}
+
+.main-contact {
+    top: 20.5rem;
+}
+
+.form1 {
+    top: 20.5rem;
+}
+
+.summary {
+    top: 20.5rem;
+}
+
+.inspire {
+    top: 20.5rem;
+}
+
+.gallery {
+    top: 20.5rem;
+}
+
+    footer {
+        height: 27vh;
+        top: 27.5rem;
+    }
+
+    .footer__img {
+        width: 150px;
+        height: 80px;
+    }
+
+    iframe {
+        border: 0;
+        width: 250px;
+        height: 120px;
+    }
+
+    .footer__group__right {
+        margin-right: 2rem;
+    }
+}
+
+
+@media screen and (max-width: 822px) {
+    .img-info h1 {
+    top: 7rem;
+}
+}
+
+@media screen and (max-width: 754px) {
+    .a {
+        width: 83%;
+        font-size: 56rem;
+    }
+    .welcome__left {
+        width: 80%;
+        min-height: 60vh;
+        height: max-content;
+        margin: 1.5rem 0 1rem 0;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 2.1rem;
+        text-align: center;
+    }
+
+    .welcome__right {
+        width: 70%;
+    }
+
+    .partners__coca:hover .partners__coca__text, 
+    .partners__cusson:hover .partners__cusson__text, 
+    .partners__guinness:hover .partners__guinness__text, 
+    .partners__nb:hover .partners__nb__text, 
+    .partners__oando:hover .partners__oando__text, 
+    .partners__nutri:hover .partners__nutri__text{
+    padding-left: 0;
+    }
+
+.partners__coca__text__h6, 
+.partners__cusson__text__h6, 
+.partners__guinness_text__h6, 
+.partners__nb__text__h6, 
+.partners__oando__text__h6, 
+.partners__nutri__text__h6 {
+    font-size: 0.9rem;
+    width: 12rem;
+}
+
+.partners__coca__text,
+.partners__cusson__text, 
+.partners__guinness_text, 
+.partners__nb__text, 
+.partners__oando__text, 
+.partners__nutri__text { 
+   padding-left: 0;
+}
+
+.partners__guinness__text {
+    padding-left: 0;
+}
+
+.partners__guinness_text__btn {
+    margin-left: 0.5rem;
+}
+
+.partners__cusson__text__h6 {
+    width: 13rem;
+}
+
+.inspire__content__h1{
+    font-size: 1rem;
+    right: 2.8rem;
+    top: 1.9rem;
+}
+
+
+.inspire__content span {
+    margin-left: 3.5rem;
+}
+
+}
+
+@media screen and (max-width: 723px) {
+    .clipsect__bottom__buttons__2, .clipsect__bottom__buttons__1 {
+        height: 8vh;
+    }
+    .clipsect__bottom__buttons__1 {
+        margin-right: 0.5rem;
+    }
+    .clipsect__bottom__buttons__2 a, .clipsect__bottom__buttons__1 a {
+        font-size: 1rem;
+    }
+
+    .clipsect__bottoms__h1 {
+        margin-left: 1rem;
+    }
+    .lines1 {
+        width: 26vw;
+    }
+    .lines2 {
+        width: 33vw;
+      } 
+      
+      .lines3 {
+        width: 30vw;
+      }
+      
+      .lines4 {
+        width: 25vw;
+      }
+}
+
+@media screen and (max-width:656px) {
+    .a {
+        width: 95%;
+        font-size: 56rem;
+    }
+    .s {
+        width: 74%;
+    }
+    .c {
+        width: 87%;
+    }
+    .p {
+        width: 73%;
+    }
+
+    .subhead__logo__img {
+        margin-left: 0.5rem;
+    }
+    .welcome__left {
+        width: 80%;
+        min-height: 60vh;
+        height: max-content;
+        margin: 1.5rem 0 1rem 0;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 1.9rem;
+        text-align: center;
+    }
+
+    .welcomme__left__h5 {
+        font-size: 1.2rem;
+    }
+
+    .main-contact  h1:nth-of-type(1) {
+        font-size: 1.6rem;
+    }
+
+    .main-contact__btn {
+        height: 2.5rem;
+        width: 5.5rem;
+        top: 10.5rem;
+    }
+}
+
+@media screen and (max-width: 646px) {
+    .form1__form {
+        width: 70%;
+        height: max-content;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    
+    .form1__form form label input {
+        width: 17rem;
+    }
+    
+    .form1__form form label textarea {
+        width: 19rem;
+    }
+
+    .form1 {
+        height: fit-content;
+    }
+
+    .img-info h1 {
+        font-size: 1.7rem;
+    }
+
+    .summary__content h1 {
+        font-size: 1.8rem;
+    }
+
+    .summary__content span {
+        bottom: 0;
+    }
+}
+
+
+@media screen and (max-width: 632px) {
+    .partners__nb__text__h6 {
+        width: 13rem;
+    }
+}
+
+@media screen and (max-width: 626px) {
+    .lines1 {
+        width: 30vw;
+    }
+    .partners {
+        min-height: 80vh;
+        height: fit-content;
+        width: 100vw;
+        max-width: 1440px;
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        top: 20.5rem;
+        z-index: 50;
+    }
+
+    .partners__guinness__img {
+        padding-left: 1rem;
+    }
+    
+    .partners__coca {
+        height: 45vh;
+        width: 50%;
+    }
+    
+    .partners__cusson {
+        height: 45vh;
+        width: 50%;
+    }
+    
+    .partners__guinness {
+        height: 45vh;
+        width: 50%;
+    }
+    
+    .partners__nb {
+        height: 45vh;
+        width: 50%;
+    }
+    
+    .partners__oando {
+        height: 45vh;
+        width: 50%;
+    }
+    
+    .partners__nutri {
+        height: 45vh;
+        width: 50%;
+    }
+
+    .partners__coca__text,
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text { 
+       padding-left: 2rem;
+    }
+
+    .partners__coca:hover .partners__coca__text,
+    .partners__cusson:hover .partners__cusson__text, 
+    .partners__guinness:hover .partners__guinness__text, 
+    .partners__nb:hover .partners__nb__text, 
+    .partners__oando:hover .partners__oando__text, 
+    .partners__nutri:hover .partners__nutri__text { 
+       padding-left: 2.3rem;
+    }
+
+    .summary__content h1 {
+        font-size: 1.7rem;
+    }
+    
+}
+
+@media screen and (max-width: 612px) {
+    .clipsect__bottom__buttons__1, .clipsect__bottom__buttons__2 {
+        position: relative;
+        width: 29vw;
+    }
+    .clipsect__bottoms__h1 {
+        width: 90vw;
+    }
+    .clipsect__bottom__buttons__1 {
+        margin-bottom: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 593px) {
+    .a {
+        right: 10rem;
+    }
+    .c {
+        width: 95%;
+    }
+    .p {
+     width: 85%;
+    }
+
+    .subhead__logo__img {
+        padding-left: 2.5rem;
+    }
+
+    .welcome__left {
+        width: 90%;
+        min-height: 69vh;
+        height: max-content;
+        margin: 1.5rem 0 1rem 0;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 1.9rem;
+        text-align: center;
+    }
+
+    .welcomme__left__h5 {
+        font-size: 1.2rem;
+    }
+
+    .summary {
+        height: 46vh;
+    }
+
+    .gallery__clip {
+        right: 12rem;
+    }
+
+    .gallery__a {
+        right: 8.5rem;
+    }
+
+    footer {
+        min-height: 27vh;
+        height: max-content;
+    }
+
+    iframe {
+        width: 200px;
+        height: 110px;
+    }
+
+    .footer__group__right {
+        height: 50%;
+    }
+
+    .footer__group__right h6  {
+        word-spacing: 0.3rem;
+        margin-top: 0.7rem;
+    }
+}
+
+@media screen and (max-width:535px) {
+    
+    .img-info h1 {
+        font-size: 1.5rem;
+        top: 6rem;
+    }
+
+    .img-info h5 {
+        font-size: 1.2rem;
+    }
+
+    .press-left {
+        height: 6vh;
+        top: 13.5rem;
+        width: 6vw;
+    }
+    
+    .press-right {
+        height: 6vh;
+        top: 13rem;
+        width: 6vw;
+    }
+}
+
+@media screen and (max-width: 527px){
+    .a {
+       font-size: 53rem;
+       width: 90%;
+    }
+    .c {
+        width: 100%;
+    }
+    .p {
+     width: 94%;
+    }
+
+    .s {
+        width: 85%;
+    }
+
+    .lines1 {
+        width: 36vw;
+    }
+
+    .lines2 {
+        width: 45vw;
+    }
+
+    .lines3 {
+        width: 39vw;
+    }
+
+    .lines4 {
+        width: 35vw;
+    }
+
+    .hamburger-cover {
+       margin-right: 1.3rem;
+    }
+
+      .welcome__left {
+        width: 90%;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 1.7rem;
+    }
+
+    .welcomme__left__h5 {
+        font-size: 1.1rem;
+    }
+
+    .partners__coca:hover .partners__coca__text,
+    .partners__cusson:hover .partners__cusson__text, 
+    .partners__guinness:hover .partners__guinness__text, 
+    .partners__nb:hover .partners__nb__text, 
+    .partners__oando:hover .partners__oando__text, 
+    .partners__nutri:hover .partners__nutri__text { 
+       padding-left: 0.9rem;
+    }
+
+    .gallery__clip {
+        right: 12rem;
+    }
+
+    .gallery__a {
+        right: 6rem;
+    }
+    
+    .main-contact  h1:nth-of-type(1) {
+        font-size: 1.3rem;
+    }
+
+    .main-contact__btn {
+        height: 2.4rem;
+    }
+    
+    .summary__content {
+        top: 1.6rem;
+    }
+    .summary__content h1 {
+        font-size: 1.6rem;
+    }
+    .inspire__content__h1 {
+        right: 7rem;
+        top: 9rem;
+    }
+
+    .footer__group__left {
+        margin-top: 0.5rem;
+    }
+}
+
+
+@media screen and (max-width: 475px) {
+    .nav__ul__li1 a, 
+    .nav__ul__li2 a,
+    .nav__ul__li3 a,
+    .nav__ul__li4 a {
+        font-size: 3rem;
+    }
+
+    .logo__img {
+        width: 70px;
+        height: 40px;
+    }
+
+    .img-info h1 {
+        font-size: 1.3rem;
+        top: 7rem;
+        left: 2rem;
+        line-height: 2rem;
+        width: 12rem;
+    }
+
+    .img-info h5 {
+        font-size: 1.1rem;
+        width: 10rem;
+        right: 2rem;
+    }
+
+    .clipsect__bottoms__h1 {
+        width: 100vw;
+        font-size: 1.7rem;
+    }
+
+    .clipsect__bottom__buttons__1 a, .clipsect__bottom__buttons__2 a {
+        font-size: 0.8rem;
+    }
+
+    .welcomme__left__h1 {
+        font-size: 1.4rem;
+    }
+
+    .welcomme__left__h5 {
+        font-size: 0.9rem;
+    }
+
+    .welcome__right__h1 {
+        font-size: 1rem;
+     }
+
+    .welcome__right dt {
+        font-size: 0.8rem;
+    }
+
+    .partners__coca__text, 
+    .partners__cusson__text, 
+    .partners__guinness__text, 
+    .partners__nb__text, 
+    .partners__oando__text, 
+    .partners__nutri__text{
+    padding-left: 0.9rem;
+    }
+
+    .partners__coca__text__h3, 
+    .partners__cusson__text__h3, 
+    .partners__guinness_text__h3, 
+    .partners__nb__text__h3, 
+    .partners__oando__text__h3, 
+    .partners__nutri__text__h3 {
+        font-size: 0.9rem;
+        margin-top: 0.2rem;
+    }  
+
+    .form1__info {
+        width: 80%;
+    }
+
+    .press-left { 
+    left: 1.6rem;
+    top: 13.1rem;
+    }
+}
+
+@media screen and (max-width: 437px) {
+
+    .partners__nb:hover .partners__nb__text,
+    .partners__cusson:hover .partners__cusson__text,
+    .partners__nutri:hover .partners__nutri__text {
+        padding-left: 0;
+    }
+
+    .main-contact  h1:nth-of-type(1) {
+        font-size: 1.1rem;
+    }  
+    
+    .main-contact__btn {
+        height: 2rem;
+        width: 7rem;
+        top: 9.7rem;
+    } 
+
+    .form1__form h1 {
+      font-size: 1.7rem;
+    }
+
+    .form1__form form label input {
+        width: 13rem;
+    }
+    
+    .form1__form form label textarea {
+        width: 14rem;
+    }
+
+    .form1__form__btn {
+        width: 6rem;
+    }
+
+    .info1 i {
+      font-size: 0.8rem;
+    }
+
+    .form1__form form label span {
+        font-size: 0.9rem;
+    }
+
+    .summary__content h1 {
+        font-size: 1.3rem;
+    }
+
+    .summary__content span {
+        font-size: 1.2rem;
+    }
+
+    .inspire__content__h1{
+        font-size: 0.8rem;
+        right: 8rem;
+        top: 10rem;
+    }
+
+    
+    .gallery__a {
+        font-size: 1.5rem;
+        right: 4rem;
+        padding-left: 1rem;
+        height: 2rem;
+    }
+
+    iframe {
+        width: 150px;
+        height: 100px;
+    }
+
+    .footer__group__right h6  {
+        word-spacing: 0.3rem;
+        margin-top: 0.4rem;
+        font-size: 0.6rem;
+    }
+    
+}
+
+
+@media screen and (max-width: 413px) {
+    .partners__coca__text__h6, 
+    .partners__cusson__text__h6, 
+    .partners__guinness_text__h6, 
+    .partners__nb__text__h6, 
+    .partners__oando__text__h6, 
+    .partners__nutri__text__h6 {
+      font-size: 0.8rem;
+      width: 10rem;
+      line-height: 22px;
+}
+
+.partners__cusson__text__h6 {
+    line-height: 19px;   
+    width: 11rem;
+}
+
+.partners__guinness_text__h6 {
+    font-size: 0.75rem;
+}
+
+.partners__guinness:hover .partners_guinness__text,
+.partners__coca:hover .partners__coca__text,
+.partners__nb:hover .partners__nb__text,
+.partners__cusson:hover .partners__cusson__text,
+.partners__nutri:hover .partners__nutri__text {
+    padding-left: 0;
+    padding-top: 0;
+}
+
+.partners__coca:hover .partners__coca__text {
+    padding-left: 0.9rem;
+}
+
+.main-contact  h1:nth-of-type(1) {
+    font-size: 1rem;
+}
+
+.main-contact  h1:nth-of-type(2) {
+    font-size: 1.2rem;
+}
+
+.main-contact__btn { 
+    top: 9rem;
+}
+
+} 
+
+
+@media screen and (max-width: 397px) {
+ .clipsect__bottoms__h1 {
+     font-size: 1.5rem;
+ }
+}
+
+@media screen and (max-width: 388px) {
+        .form1__info h1 {
+        font-size: 1.6rem;
+        }
+        .form1__info h4 {
+            font-size: 0.8rem;
+            width: 15rem;
+            line-height: 1.3rem;
+        }
+        
+        .form1__info__btn {
+            width: 6.5rem;
+            height: 2rem;
+        }
+
+        .form1__info__btn a {
+            font-size: 0.8rem;
+        }
+
+        .subhead__logo__img {
+            width: 9rem;
+        }
+
+        .welcomme__left__h1 {
+            font-size: 1.2rem;
+        }
+
+        .welcomme__left__h5 {
+            font-size: 0.85rem;
+            margin-top: 0.3rem;
+        }
+
+        .welcome__right__h1 {
+            font-size: 0.8rem;
+        }
+
+        .welcome__right dt {
+            font-size: 0.7rem;
+        }
+
+        .welcome__right  dd {
+            font-size: 0.7rem;
+            text-indent: 0.5rem;
+       }
+}
+
+@media screen and (max-width: 356px) {
+    .nav__ul__li1 a,
+    .nav__ul__li2 a,
+    .nav__ul__li3 a,
+    .nav__ul__li4 a {
+        font-size: 2.5rem;
+    }
+
+    
+.img-info h1 {
+    font-size: 1.2rem;
+}
+
+.img-info h5 {
+    font-size: 1rem;
+    right: 1rem;
+    line-height: 20px;
+ }
+
+ .clipsect__bottoms__h1 {
+    font-size: 2.1rem;
+    font-style: normal;
+    line-height: 39px;
+}
+    .welcome__right  {
+        width: 90%;
+    }
+
+    .partners__coca__text__btn, 
+    .partners__cusson__text__btn, 
+    .partners__guinness_text__btn, 
+    .partners__nb__text__btn, 
+    .partners__oando__text__btn, 
+    .partners__nutri__text__btn {
+    margin-left: 0.6rem;
+   }
+}
+
+@media screen and (max-width: 344px) {
+     
+    .partners__coca {
+        height: 45vh;
+        width: 100%;
+    }
+    
+    .partners__cusson {
+        height: 45vh;
+        width: 100%;
+    }
+    
+    .partners__guinness {
+        height: 45vh;
+        width: 100%;
+    }
+    
+    .partners__nb {
+        height: 45vh;
+        width: 100%;
+    }
+    
+    .partners__oando {
+        height: 45vh;
+        width: 100%;
+    }
+    
+    .partners__nutri {
+        height: 45vh;
+        width: 100%;
+    }
+
+    .partners__coca__text__h6, 
+    .partners__cusson__text__h6, 
+    .partners__guinness_text__h6, 
+    .partners__nb__text__h6, 
+    .partners__oando__text__h6, 
+    .partners__nutri__text__h6 {
+      font-size: 1rem;
+      width: 14rem;
+      line-height: 22px;
+}
+
+.partners__guinness:hover .partners__guinness__text,
+.partners__coca:hover .partners__coca__text,
+.partners__nb:hover .partners__nb__text,
+.partners__oando:hover .partners__oando__text, 
+.partners__cusson:hover .partners__cusson__text,
+.partners__nutri:hover .partners__nutri__text {
+    padding-left: 4.5rem;
+    padding-top: 0;
+}
+
+.partners__coca__text, 
+.partners__cusson__text, 
+.partners__guinness__text, 
+.partners__nb__text, 
+.partners__oando__text, 
+.partners__nutri__text{
+padding-left: 4.5rem;
+}
+
+.partners__coca__text__h3, 
+.partners__cusson__text__h3, 
+.partners__guinness_text__h3, 
+.partners__nb__text__h3, 
+.partners__oando__text__h3, 
+.partners__nutri__text__h3 {
+    font-size: 1.2rem;
+    margin-top: 0.2rem;
+} 
+
+    body {
+        overflow-x: scroll;
+    }
+
+    main {
+        width: 100%;
+        max-width: 1440px;
+        min-width: 100vw;
+        overflow-x: scroll;
+    }
+
+    .gallery__a {
+        font-size: 1.3rem;
+        right: 6rem;
+        padding-left: 0;
+        height: 2rem;
+        width: 6.5rem;
+    }
+
+    footer {
+        top: 7rem;
+    }
+    .footer__group__left h6 {
+        font-size: 0.6rem;
+    }
+
+    .footer__group__right small {
+        font-size: 0.55rem;
+    }
+
+    .footer__img {
+        height: 100px;
+        width: 90px;
+    }
+}
+
+@media screen and (max-width: 333px) {
+    .welcomme__left__h1 {
+        font-size: 1.1rem;
+    }
+
+    .form1__form form label input {
+        width: 10rem;
+    }
+
+    .form1__form form label span {
+        font-size: 0.7rem;
+    }
+
+    .form1__form form label textarea {
+        width: 10.5rem;
+    }
+
+    .info1 i { 
+        font-size: 0.7rem;
+    }
+
+    .form1__form__btn {
+        height: 2.5rem;
+        width: 4rem;
+    }
+
+    .summary__content h1 {
+        font-size: 1.1rem;
+    }
+
+    .main-contact  h1:nth-of-type(1) {
+        font-size: 0.9rem;
+    }
+    
+    .main-contact  h1:nth-of-type(2) {
+        font-size: 0.8rem;
+    }
+    
+    .main-contact__btn {
+         width: 6rem;
+         top: 9rem;
+    }
+    .main-contact__btn a {
+        font-size: 0.7rem;
+    }
+
+    .form1__form h1 {
+        font-size: 1.4rem;
+    }
+
+    iframe {
+        width: 110px;
+    }
+    
+}
+
+@media screen and (max-width: 298px) {
+    .partners__guinness:hover .partners__guinness__text,
+.partners__coca:hover .partners__coca__text,
+.partners__nb:hover .partners__nb__text,
+.partners__oando:hover .partners__oando__text, 
+.partners__cusson:hover .partners__cusson__text,
+.partners__nutri:hover .partners__nutri__text {
+    padding-left: 3rem;
+    padding-top: 0;
+}
+
+.partners__coca__text, 
+.partners__cusson__text, 
+.partners__guinness__text, 
+.partners__nb__text, 
+.partners__oando__text, 
+.partners__nutri__text{
+padding-left: 3rem;
+}
+}
+
+
+@media screen and (max-width: 293px) {
+    .form1__info h4 {
+        font-size: 0.65rem;
+        width: 11rem;
+    }
+
+    .main-contact  h1:nth-of-type(1) {
+        font-size: 0.7rem;
+    }
+
+    .img-info h1 {
+        font-size: 1.1rem;
+        width: 10rem;
+    }
+}
+
+@media screen and (max-width: 294px) {
+.form1__form h1 {
+    margin-left: 1rem;
+}
+.inspire__content__h1 {
+    font-size: 0.8rem;
+    width: 13rem;
+    right: 7rem;
+}
+
+.inspire__content span {
+    margin-left: 2rem;
+}
+}

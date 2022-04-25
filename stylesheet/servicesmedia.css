@@ -1,0 +1,892 @@
+
+@media screen and  (max-width: 1243px) {
+    .start__white h5 {
+        width: 90%;
+    }
+    .start {
+        height: 120vh;
+    }
+    .elect__right {
+        min-height: 130vh;
+    }
+    .services2 {
+    height: 150vh;
+    }
+
+    .piping {
+        height: 135vh;
+    }
+
+    .service3 { 
+    height: 210vh;
+    }
+
+    .service3__ul {
+    height: 130vh;
+    }
+}
+
+@media screen and  (max-width: 1152px) {
+    .service3__ul__li h3 {
+        width: 60%;
+    }
+}
+
+
+
+@media screen and  (max-width: 1150px) {
+    .mech__left {
+        height: 120vh;
+    }
+
+     .thermal {
+        height: 120vh;
+    }
+    .mech__left h3, .elect__right h3,  .thermal h3, .piping h3{
+       width: 70%;
+    }
+}
+
+@media screen and  (max-width: 1085px) {
+    .mech__left h3, .elect__right h3,  .thermal h3, .piping h3{
+        width: 80%;
+     }
+}
+
+@media screen and  (max-width: 1032px) {
+    .elect__right {
+        min-height: 150vh;
+    }
+
+    .piping {
+        height: 150vh;
+    }
+}
+
+@media screen and  (max-width: 995px) {
+    .thermal {
+        height: 145vh;
+    }
+}
+
+@media screen and  (max-width: 973px) {
+    .s5 a {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and  (max-width: 952px) {
+    .mech__left h3, .elect__right h3,  .thermal h3, .piping h3{
+        width: 90%;
+     }
+}
+@media screen and  (max-width: 921px) {
+    .s1 a {
+        font-size: 0.8rem;
+    }
+
+    .clients__li a {
+        font-size: 0.8rem;
+    }
+
+    .footer__group__right {
+      margin-right: 1rem;
+    }
+}
+
+@media screen and  (max-width: 905px) {
+    .start {
+        height: 136vh;
+    }
+    .services2 {
+        height: 180vh;
+    }
+    .mech__left {
+        height: 145vh;
+    }
+ 
+    .service3 {
+        height: 235vh;
+    }
+    .service3__ul {
+        height: 150vh;
+    }
+
+    .service3__ul__li h3 {
+        width: 70%;
+    }
+}
+
+@media screen and  (max-width: 859px) {
+    .start{
+        height: 170vh;
+    }
+
+.elect__right {
+    height: 180vh;
+}
+
+.piping {
+    height: 180vh;
+}
+
+.services2 {
+    height: 200vh;
+}
+}
+
+@media screen and  (max-width: 847px) {
+    .mech__left h3, .elect__right h3,  .thermal h3, .piping h3{
+        width: 100%;
+     }
+}
+
+@media screen and (max-width: 832px) {
+    .subhead__nav {
+        display: none;
+    }
+
+    .hidden {
+        display: block;
+    }
+
+    .subhead__logo {
+        margin-left: 1.5rem;
+    }
+
+    .hamburger-cover {
+        float: right;
+        height: 12vh;
+        width: 15vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        cursor: pointer;
+    }
+
+    .ham1 {
+        position: absolute;
+        border-radius: 5px;
+        background: rgb(11, 109, 255);
+        width: 6vw;
+        height: 4px;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 28px;
+        margin: auto;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .ham2 {
+        border-radius: 5px;
+        background: rgb(11, 109, 255);
+        width: 6vw;
+        height: 4px;
+    }
+
+    .ham3 {
+        position: absolute;
+        top: 28px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        border-radius: 5px;
+        background: rgb(11, 109, 255);
+        width: 6vw;
+        height: 4px;
+        transition: all 0.5s ease-in-out;
+    }
+
+    .aside {
+        width: 100vw;
+        max-width: 1440px;
+        height: 100vh;
+        background: rgb(32, 31, 31);
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        transform: translateY(-100%);
+        transition: transform 1s ease-in-out;
+    }
+
+    .logo__img {
+        position: relative;
+        width: 7rem;
+        height: 50px;
+        top: 1rem;
+        left: 1rem;
+    }
+
+    .nav__ul {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        max-width: 1440px;
+        height: 100%;
+        padding-top: 1rem;
+    }
+
+    .nav__ul__li1,
+    .nav__ul__li2,
+    .nav__ul__li3,
+    .nav__ul__li4 {
+        list-style-type: none;
+        position: relative;
+        display: flex;
+        justify-content: space-around;
+        height: 21vh;
+        width: 100%;
+    }
+
+    .nav__ul__li1 a,
+    .nav__ul__li2 a,
+    .nav__ul__li3 a,
+    .nav__ul__li4 a {
+        text-decoration: none;
+        color: white;
+        font-size: 4rem;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        position: relative;
+    }
+
+    .nav__ul__li1 a:hover,
+    .nav__ul__li2 a:hover,
+    .nav__ul__li3 a:hover,
+    .nav__ul__li4 a:hover {
+        color: rgb(11, 109, 255);
+        transition: all 0.5s ease-in-out;
+    }
+
+    .lines1, .lines2, .lines3, .lines4 {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 2.6rem;
+        width: 22.5vw;
+        height: 3px;
+        background: rgb(11, 109, 255);
+        transform: scaleX(0);
+        transition: all 0.4s ease-in-out;
+    }
+
+    .lines2 {
+        width: 27.7vw;
+    } 
+    
+    .lines3 {
+        width: 24vw;
+    }
+    
+    .lines4 {
+        width: 21vw;
+    }
+
+    .nav__ul__li1 a:hover > .lines1,
+    .nav__ul__li2 a:hover > .lines2,
+    .nav__ul__li3 a:hover > .lines3,
+    .nav__ul__li4 a:hover > .lines4 {
+        transform: scaleX(100%);
+    }
+
+    .a, .s, .c, .p {
+        position: absolute;
+        width: 77%;
+        left: 0;
+        right: 0;
+        top: -16rem;
+        bottom: 0;
+        margin: auto;
+        color: white;
+        z-index: -1;
+        font-size: 45rem;
+        opacity: 0;
+        font-weight: bold;
+    }
+
+    .a {
+        font-size: 57rem;
+        top: -26rem;
+    }
+
+    .nav__ul__li1 a:hover ~ .a {
+        opacity: 0.05;
+        transition: all 1s ease-in-out;
+    }
+
+    .s {
+        font-size: 51.5rem;
+        top: -31rem;
+        width: 59%;
+    }
+
+    .nav__ul__li2 a:hover ~ .s {
+        opacity: 0.05;
+        transition: all 1s ease-in-out;
+    }
+
+    .c {
+        font-size: 51.5rem;
+        top: -39rem;
+        width: 72%;
+    }
+
+    .nav__ul__li3 a:hover ~ .c {
+        opacity: 0.05;
+        transition: all 1s ease-in-out;
+    }
+
+    .p {
+        font-size: 52rem;
+        top: -47rem;
+        width: 59%;
+    }
+
+    .nav__ul__li4 a:hover ~ .p {
+        opacity: 0.05;
+        transition: all 1s ease-in-out;
+    }
+}
+
+@media screen and (max-width: 812px) { 
+    .start__white h5 {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and  (max-width: 766px) {
+    .start {
+        height: 170vh;
+    }
+
+    .services2 {
+    height: 200vh;
+    }
+
+    .service3 { 
+    height: 230vh;
+    }
+
+    .start__ul__mech,
+    .services__ul {
+        width: 100vw;
+        justify-content: space-around;
+    }
+
+    .mech__left, .elect__right,  .thermal, .piping{
+        width: 47vw;
+     }
+
+
+     .mech__left h3, .elect__right h3,  .thermal h3, .piping h3{
+        width: 90%;
+        font-size: 1.2rem;
+     }
+
+     .black1, .black2, .black3, .black4 {
+        width: 46.2vw;
+     }
+
+    .mech-img-left,
+    .elect-img-right,
+    .thermal__img,
+    .piping__img {
+        width: 46.2vw;
+    }
+    
+
+    .mech__left h5, 
+    .thermal h5,
+    .mech__left__ul, 
+    .thermal__ul,
+    .mech__left__ul__li1, 
+    .mech__left__ul__li2, 
+    .thermal__ul__li1,  
+    .thermal__ul__li2, 
+    .elect__right h5,
+    .elect__right__ul,
+    .elect__right__ul__li,
+    .piping h5, .piping__ul,
+    .piping__ul__li{
+         width: 40vw;
+         font-size: 0.9rem;
+    }
+
+    .service3__ul {
+        width: 95vw;
+        height: 145vh;
+    }
+
+    .service3__ul__li h3{
+        width: 70%;
+    }
+
+    .service3__ul__li h5 {
+    width: 90%;
+    }
+
+    .service3__ul__li__ul,
+    .service3__ul__li__ul__li {
+    width: 90%;
+}
+
+}
+
+@media screen and (max-width: 754px) {
+    .a {
+        width: 83%;
+        font-size: 56rem;
+    }
+}
+
+@media screen and (max-width: 723px) {
+    .lines1 {
+        width: 26vw;
+    }
+    .lines2 {
+        width: 33vw;
+      } 
+      
+      .lines3 {
+        width: 30vw;
+      }
+      
+      .lines4 {
+        width: 25vw;
+      }
+}
+
+
+@media screen and  (max-width: 766px) {
+.service3 {
+    height: 240vh;
+}
+
+.service3__ul {
+    height: 160vh;
+}
+
+.service3__ul__li h3{
+    font-size: 1.1rem;
+}
+
+.service3__ul__li h5 {
+ font-size: 0.9rem;
+}
+
+.service3__ul__li__ul__li {
+    font-size: 0.9rem;
+}
+}
+
+@media screen and (max-width:656px) {
+    .a {
+        width: 95%;
+        font-size: 56rem;
+    }
+    .s {
+        width: 74%;
+    }
+    .c {
+        width: 87%;
+    }
+    .p {
+        width: 73%;
+    }
+
+    .subhead__logo__img {
+        margin-left: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 642px) {
+   .mech__left h3 {
+       font-size: 1rem;
+   }
+   .elect__right h3,
+   .piping h3,
+   .thermal h3 {
+    font-size: 1rem;
+   }
+}
+
+@media screen and (max-width: 635px) {
+    .start__white h5 {
+       width: 100%;
+    }
+}
+
+@media screen and (max-width: 609px) {
+    iframe {
+            width: 200px;
+            height: 120px;
+        }
+}
+
+@media screen and (max-width: 593px) {
+    .a {
+        right: 10rem;
+    }
+    .c {
+        width: 95%;
+    }
+    .p {
+     width: 85%;
+    }
+
+    .subhead__logo__img {
+        padding-left: 2.5rem;
+    }
+}
+
+
+@media screen and (max-width: 569px){
+
+    .service3__ul__li h3{
+       width: 90%;
+    }
+}
+
+@media screen and (max-width: 532px){
+    .mech__left {
+        height: 160vh;
+    }
+.thermal{
+    height: 160vh;
+}
+.mech__left h3,
+.elect__right h3,
+.thermal h3,
+.piping h3 {
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 527px){
+    .a {
+       font-size: 53rem;
+       width: 90%;
+    }
+    .c {
+        width: 100%;
+    }
+    .p {
+     width: 94%;
+    }
+
+    .s {
+        width: 85%;
+    }
+
+    .lines1 {
+        width: 36vw;
+    }
+
+    .lines2 {
+        width: 45vw;
+    }
+
+    .lines3 {
+        width: 39vw;
+    }
+
+    .lines4 {
+        width: 35vw;
+    }
+
+    .hamburger-cover {
+       margin-right: 1.3rem;
+    }
+
+    .start__white h5{
+        text-decoration: underline;
+    }
+}
+
+@media screen and (max-width: 507px) {
+    .start__white {
+        height: 32vh;
+    }
+}
+
+@media screen and (max-width: 487px) {
+    .service3 {
+        height: 260vh;
+    }
+
+.service3__ul {
+    height: 180vh;
+}
+}
+
+@media screen and (max-width: 475px) {
+    .nav__ul__li1 a, 
+    .nav__ul__li2 a,
+    .nav__ul__li3 a,
+    .nav__ul__li4 a {
+        font-size: 3rem;
+    }
+
+    .logo__img {
+        width: 70px;
+        height: 40px;
+    }
+}
+
+
+@media screen and (max-width: 470px) {
+    .start__ul__mech,
+    .services__ul {
+        flex-wrap: wrap;
+    }
+
+.mech__left,
+.elect__right,
+.thermal,
+.piping {
+    width: 85vw;
+}
+
+.mech__left {
+    height: 135vh;
+    margin-bottom: 1.5rem;
+}
+
+.elect__right {
+    height: 160vh;
+}
+
+.thermal {
+margin-bottom: 1.5rem;
+}
+
+.piping {
+    height: 170vh;
+}
+
+.mech__left h3, .elect__right h3,  .thermal h3, .piping h3{
+    width: 70%;
+ }
+
+ .black1, .black2, .black3, .black4 {
+    width: 84vw;
+ }
+
+.mech-img-left,
+.elect-img-right,
+.thermal__img,
+.piping__img {
+    width: 84vw;
+}
+
+
+.mech__left h5, 
+.thermal h5,
+.mech__left__ul, 
+.thermal__ul,
+.mech__left__ul__li1, 
+.mech__left__ul__li2, 
+.thermal__ul__li1,  
+.thermal__ul__li2, 
+.elect__right h5,
+.elect__right__ul,
+.elect__right__ul__li,
+.piping h5, .piping__ul,
+.piping__ul__li{
+     width: 70vw;
+     font-size: 0.95rem;
+}
+.start {
+    height: 290vh;
+}
+
+.services2 {
+    height: 260vh;
+}
+
+.services2 {
+    height: 360vh;
+}
+
+
+.service3__ul__li h3{
+font-size: 1rem;
+}
+
+}
+@media screen and (max-width: 421px) {
+    iframe {
+    margin-top: 2rem;
+    }
+
+    .footer__group__right h6 {
+        font-size: 0.6rem;
+    }
+
+    .footer__group__right {
+       padding-top: 4.5rem;
+    }
+}
+
+
+@media screen  and (max-width: 409px) {
+    .service3__ul__li h3{
+        width: 100%;
+    }
+
+    .service3__ul {
+        height: 220vh;
+    }
+
+    .service3 {
+        height: 300vh;
+    }
+}
+
+@media screen and (max-width: 396px) {
+    iframe {
+        width: 160px;
+    }
+
+    .footer__group__left h6 {
+        font-size: 0.6rem;
+    }
+}
+
+
+@media screen and (max-width: 356px) {
+    .nav__ul__li1 a,
+    .nav__ul__li2 a,
+    .nav__ul__li3 a,
+    .nav__ul__li4 a {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .mech__left h3,
+    .elect__right h3,
+    .thermal h3,
+    .piping h3 {
+       font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width: 366px) {
+
+    .service3__ul__li h3{
+      font-size: 0.85rem;
+    }
+}  
+@media screen and (max-width: 335px) {
+    .container {
+        overflow-x: scroll;
+    }
+    .start__white {
+        padding-top: 0.1rem;
+    }
+
+    .start__white h5 {
+        text-decoration: underline;
+    }
+}
+
+@media screen and (max-width: 330px) { 
+.mech__left {
+    height: 170vh;
+}
+
+.start {
+    height: 360vh;
+}
+
+.services2 {
+    height: 360vh;
+}
+
+.service3 {
+    height: 340vh;
+}
+
+.service3__ul { 
+    height: 270vh;
+}
+
+.mech__left h3,
+.elect__right h3,
+.thermal h3,
+.piping h3 {
+   font-size: 0.8rem;
+}
+}
+
+@media screen and (max-width: 328px) { 
+.elect__right {
+    height: 200vh;
+}
+}
+
+@media screen and (max-width: 315px) { 
+    .service3__ul__li h3{
+         font-size: 0.7rem;
+    }
+}
+
+@media screen and (max-width: 307px) {
+    .mech__left h3,
+    .elect__right h3,
+    .thermal h3,
+    .piping h3 {
+       font-size: 0.7rem;
+    }
+}
+
+@media screen and (max-width: 305px) {
+    .start__white {
+       width: 80%;
+       padding-top: 0.3rem;
+    }
+}
+@media screen and (max-width: 291px) {
+     .footer__img {
+        width: 150px;
+        height: 100px;
+    }
+
+    iframe {
+        width: 120px;
+        height: 70px;
+    }
+    
+.footer__group__right {
+    padding-top: 1rem;
+    height: 50%;
+}
+
+.footer__group__right small {
+    font-size: 0.6rem;
+}
+}
+
+@media screen and (max-width: 287px) {
+.thermal {
+    height: 190vh;
+}
+.piping{
+    height: 200vh;
+}
+
+.services2 {
+    height: 420vh;
+}
+
+.service3 {
+    height: 350vh;
+}
+
+}
