@@ -170,7 +170,7 @@
   }
 
   .welcome__content {
-    max-height: max-content;
+    /* max-height: max-content; */
   }
   .welcome__left {
     height: 100%;
@@ -420,6 +420,10 @@
     display: none;
   }
 
+  .clipsect__h4 {
+    top: unset;
+  }
+
   .clipsect__bottoms__h1 {
     display: block;
   }
@@ -433,7 +437,7 @@
   }
 
   .clipsect {
-    top: 30rem;
+    /* top: 30rem; */
   }
 
   .hamburger-cover {
@@ -694,10 +698,11 @@
     width: 100vw;
     max-width: 1440px;
     height: 80vh;
-    display: unset;
+    display: block;
     flex-wrap: unset;
     flex-direction: unset;
-    position: fixed;
+    position: sticky;
+    top: 0;
     z-index: 40;
   }
 
@@ -930,7 +935,7 @@
   }
 
   .welcome {
-    top: 20.5rem;
+    /* top: 20.5rem; */
   }
 
   .partners {
@@ -984,9 +989,12 @@
   }
 }
 
-/* @media screen and (max-width: 768px) {
-  .clipsect {
-    top: 40rem;
+/* @media screen and (max-width: 769px) {
+  .clipsect__top {
+    display: none;
+  }
+  .clipsect__h4 {
+    top: unset;
   }
 } */
 
@@ -1002,7 +1010,7 @@
     margin: 1.5rem 0 1rem 0;
   }
 
-  .welcomme__left__h1 {
+  .welcome__left__h1 {
     font-size: 2.1rem;
     text-align: center;
   }

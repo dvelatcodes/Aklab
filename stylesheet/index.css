@@ -7,13 +7,13 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .container {
   position: relative;
-  height: fit-content;
-  min-height: 300vh;
+  height: auto;
+  /* min-height: 300vh; */
   width: 100vw;
   /* min-width: 100vw; */
   max-width: 1440px;
