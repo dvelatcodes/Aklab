@@ -6,7 +6,9 @@
   .welcomme__left__h1 > span {
     right: 8rem;
   }
-
+  /* .partners {
+    top: 0;
+  } */
   .partners__coca__img,
   .partners__cusson__img,
   .partners__guinness__img,
@@ -23,19 +25,6 @@
   .partners__nutri:hover .partners__nutri__img {
     width: 130px;
     height: 130px;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 8.6rem;
-  }
-
-  .partners__coca:hover .partners__coca__text {
-    padding-left: 9.5rem;
   }
 }
 
@@ -66,23 +55,6 @@
   .partners__cusson:hover .partners__cusson__img {
     width: 120px;
     height: 120px;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 7.4rem;
-  }
-
-  .partners__coca:hover .partners__coca__text {
-    padding-left: 7.5rem;
-  }
-
-  .partners__cusson:hover .partners__cusson__text {
-    padding-left: 7.2rem;
   }
 
   .form1__form form label {
@@ -139,29 +111,24 @@
     height: 100px;
   }
 
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 6.2rem;
-  }
-
-  .partners__coca:hover .partners__coca__text {
-    padding-left: 6.2rem;
-  }
-
-  .partners__cusson:hover .partners__cusson__text {
-    padding-left: 6.1rem;
-  }
-
   .inspire__content__h1 {
     right: -1rem;
   }
 }
 
 @media screen and (max-width: 1045px) {
+  .partners {
+    top: 0;
+    margin: 0;
+  }
+  .partners__coca__text,
+  .partners__cusson__text,
+  .partners__guinness__text,
+  .partners__nb__text,
+  .partners__oando__text,
+  .partners__nutri__text {
+    padding: 0;
+  }
   .s5 a {
     font-size: 0.9rem;
   }
@@ -198,23 +165,6 @@
   .partners__cusson:hover .partners__cusson__img {
     width: 70px;
     height: 70px;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 4.9rem;
-  }
-
-  .partners__coca:hover .partners__coca__text {
-    padding-left: 4.5rem;
-  }
-
-  .partners__cusson:hover .partners__cusson__text {
-    padding-left: 4.5rem;
   }
 
   .inspire__content__h1 {
@@ -310,23 +260,6 @@
   .partners__nutri:hover .partners__nutri__img {
     opacity: 0;
     transition: all 1s ease-out;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 2rem;
-  }
-
-  .partners__coca:hover .partners__coca__text {
-    padding-left: 2rem;
-  }
-
-  .partners__cusson:hover .partners__cusson__text {
-    padding-left: 2rem;
   }
 
   .main-contact h1:nth-of-type(1) {
@@ -870,15 +803,6 @@
     font-size: 2rem;
   }
 
-  .partners__coca:hover .partners__coca__text,
-  .partners__cusson:hover .partners__cusson__text,
-  .partners__guinness:hover .partners__guinness__text,
-  .partners__nb:hover .partners__nb__text,
-  .partners__oando:hover .partners__oando__text,
-  .partners__nutri:hover .partners__nutri__text {
-    padding-left: 0.5rem;
-  }
-
   .main-contact h1:nth-of-type(1) {
     font-size: 2rem;
     margin: 6rem 0 0.3rem 0;
@@ -940,31 +864,38 @@
 
   .partners {
     top: 20.5rem;
+    top: 0;
   }
 
   .main-contact {
     top: 20.5rem;
+    top: 0;
   }
 
   .form1 {
     top: 20.5rem;
+    top: 0;
   }
 
   .summary {
     top: 20.5rem;
+    top: 0;
   }
 
   .inspire {
     top: 20.5rem;
+    top: 0;
   }
 
   .gallery {
     top: 20.5rem;
+    top: 0;
   }
 
   footer {
     height: 27vh;
     top: 27.5rem;
+    top: 0;
   }
 
   .footer__img {
@@ -1198,7 +1129,7 @@
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    top: 20.5rem;
+    top: 0;
     z-index: 50;
   }
 
@@ -1234,24 +1165,6 @@
   .partners__nutri {
     height: 45vh;
     width: 50%;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 2rem;
-  }
-
-  .partners__coca:hover .partners__coca__text,
-  .partners__cusson:hover .partners__cusson__text,
-  .partners__guinness:hover .partners__guinness__text,
-  .partners__nb:hover .partners__nb__text,
-  .partners__oando:hover .partners__oando__text,
-  .partners__nutri:hover .partners__nutri__text {
-    padding-left: 2.3rem;
   }
 
   .summary__content h1 {
@@ -1407,15 +1320,6 @@
     font-size: 1.1rem;
   }
 
-  .partners__coca:hover .partners__coca__text,
-  .partners__cusson:hover .partners__cusson__text,
-  .partners__guinness:hover .partners__guinness__text,
-  .partners__nb:hover .partners__nb__text,
-  .partners__oando:hover .partners__oando__text,
-  .partners__nutri:hover .partners__nutri__text {
-    padding-left: 0.9rem;
-  }
-
   .gallery__clip {
     right: 12rem;
   }
@@ -1499,15 +1403,6 @@
 
   .welcome__right dt {
     font-size: 0.8rem;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 0.9rem;
   }
 
   .partners__coca__text__h3,
@@ -1632,10 +1527,6 @@
   .partners__nutri:hover .partners__nutri__text {
     padding-left: 0;
     padding-top: 0;
-  }
-
-  .partners__coca:hover .partners__coca__text {
-    padding-left: 0.9rem;
   }
 
   .main-contact h1:nth-of-type(1) {
@@ -1788,17 +1679,7 @@
   .partners__oando:hover .partners__oando__text,
   .partners__cusson:hover .partners__cusson__text,
   .partners__nutri:hover .partners__nutri__text {
-    padding-left: 4.5rem;
     padding-top: 0;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 4.5rem;
   }
 
   .partners__coca__text__h3,
@@ -1911,15 +1792,6 @@
   .partners__nutri:hover .partners__nutri__text {
     padding-left: 3rem;
     padding-top: 0;
-  }
-
-  .partners__coca__text,
-  .partners__cusson__text,
-  .partners__guinness__text,
-  .partners__nb__text,
-  .partners__oando__text,
-  .partners__nutri__text {
-    padding-left: 3rem;
   }
 }
 
