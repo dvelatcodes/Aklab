@@ -774,6 +774,10 @@ dd {
   overflow: hidden;
   border-width: thin;
   padding-left: 10rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .partners__coca:hover .partners__coca__text {
@@ -852,6 +856,7 @@ dd {
   font-size: 1.2rem;
   font-weight: normal;
   font-style: italic;
+  text-align: center;
 }
 
 .partners__coca__text__h6,
@@ -877,12 +882,13 @@ dd {
 .partners__nutri__text__btn {
   background: black;
   position: relative;
-  width: 8rem;
-  height: 2.5rem;
-  margin: auto;
-  margin-left: 1.9rem;
+  width: fit-content;
+  height: fit-content;
+  padding: 1rem;
+  margin-top: 1rem;
   border-width: thin;
   border-radius: 20px;
+  top: 0;
 }
 
 .partners__coca__text__btn:hover,
@@ -892,8 +898,8 @@ dd {
 .partners__oando__text__btn:hover,
 .partners__nutri__text__btn:hover {
   background: white;
-  width: 9rem;
-  height: 2.6rem;
+  width: fit-content;
+  height: fit-content;
   transition: all 250ms ease-in-out;
 }
 
@@ -915,8 +921,8 @@ dd {
 .partners__oando__text__btn:hover .partners__oando__text__btn__a,
 .partners__nutri__text__btn:hover .partners__nutri__text__btn__a {
   color: black;
-  width: 10.3rem;
-  height: 2.7rem;
+  /* width: 10.3rem; */
+  height: fit-content;
 }
 
 .partners__coca__text__btn__a:hover,
@@ -926,8 +932,8 @@ dd {
 .partners__oando__text__btn__a:hover,
 .partners__nutri__text__btn__a:hover {
   color: black;
-  width: 10.3rem;
-  height: 2.7rem;
+  /* width: 10.3rem; */
+  height: fit-content;
 }
 
 .main-contact {
