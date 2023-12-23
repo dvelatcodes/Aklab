@@ -684,7 +684,6 @@ dd {
   position: relative;
   display: flex;
   flex-wrap: wrap;
-  top: 20.9rem;
   z-index: 50;
 }
 
@@ -941,7 +940,7 @@ dd {
   flex-direction: column;
   flex-wrap: wrap;
   align-content: space-around;
-  top: 20.9rem;
+  /* top: 20.9rem; */
   z-index: 50;
 }
 
@@ -989,7 +988,7 @@ dd {
 
 .form1 {
   position: relative;
-  top: 20.9rem;
+  /* top: 20.9rem; */
   width: 100%;
   max-width: 1440px;
   min-height: 110vh;
@@ -1213,7 +1212,7 @@ dd {
   min-height: 40vh;
   height: fit-content;
   background: white;
-  top: 20.9rem;
+  /* top: 20.9rem; */
   z-index: 50;
 }
 
@@ -1246,7 +1245,7 @@ dd {
   max-width: 1440px;
   height: 70vh;
   position: relative;
-  top: 20.9rem;
+  /* top: 20.9rem; */
   z-index: 50;
 }
 
@@ -1294,7 +1293,7 @@ dd {
   background: black;
   right: 0;
   left: 0;
-  top: 20.9rem;
+  /* top: 20.9rem; */
   opacity: 0.88;
   z-index: 50;
 }
@@ -1360,7 +1359,7 @@ footer {
   position: relative;
   left: 0;
   right: 0;
-  top: 27.9rem;
+  /* top: 27.9rem; */
   z-index: 50;
 }
 
