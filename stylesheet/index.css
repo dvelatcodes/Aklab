@@ -379,55 +379,38 @@ main {
   height: 17vh;
   min-height: max-content;
   background: rgb(11, 109, 255);
-  /* cursor: pointer; */
+  cursor: pointer;
   position: absolute;
   top: -9rem;
   left: 0;
   right: 0;
-  /* bottom: 0; */
   margin: auto;
-  /* z-index: 60; */
 }
-/* .clipsect__top:hover {
-  background: rgb(11, 109, 255);
-} */
 
-.clipsect__h3 {
-  position: relative;
-  /* top: 3rem; */
-  /* bottom: 0; */
-  /* display: block; */
-  /* left: 0;
-  right: 0; */
-  top: 0;
+/* .clipsect__h3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -6rem;
   margin: auto;
   color: white;
   font-size: 2.7rem;
   width: fit-content;
   height: fit-content;
   padding: 0.25rem;
-  /* border: 2px solid rgb(11, 109, 255); */
-  /* border-radius: 7px;
-  border-style: ridge; */
   padding-top: 10px;
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
   cursor: pointer;
-}
-
-/* .clipsect__top:hover .clipsect__h3 {
-  border-color: white;
-  color: white;
 } */
 
 .clipsect__h4 {
-  position: relative;
+  position: absolute;
   width: fit-content;
   height: fit-content;
-  top: -5rem;
-  /* bottom: 0; */
-  /* left: 0; */
-  /* right: 0; */
+  top: -6rem;
+  left: 0;
+  right: 0;
   margin: auto;
   color: white;
   font-size: 2.2rem;
