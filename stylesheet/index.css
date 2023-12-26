@@ -939,48 +939,51 @@ dd {
 .main-contact {
   width: 100%;
   max-width: 1440px;
-  height: 50vh;
-  background: black;
+  height: auto;
+  background: white;
   position: relative;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-content: space-around;
+  justify-content: center;
+  padding: 4rem 2rem 4rem 2rem;
   /* top: 20.9rem; */
   z-index: 50;
 }
 
 .main-contact h1:nth-of-type(1) {
-  color: white;
+  color: rgb(11, 109, 255);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: normal;
   font-size: 3rem;
-  margin: 4.7rem 0 0.3rem 0;
+  margin-bottom: 0.3rem;
 }
 
 .main-contact h1:nth-of-type(2) {
-  color: white;
+  color: rgb(11, 109, 255);
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: normal;
   text-align: center;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .main-contact__btn {
   width: 7rem;
   height: 3rem;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 11rem;
   margin: auto;
   border-width: thin;
+  border-color: rgb(11, 109, 255);
+  background-color: white;
+  border-radius: 10px;
+  cursor: pointer;
 }
 
 .main-contact__btn:hover {
   background: rgb(11, 109, 255);
+  box-shadow: -4px 6px 10px rgba(0, 0, 0, 0.336);
 }
 
 .main-contact__btn a {
@@ -1036,11 +1039,11 @@ dd {
   );
   z-index: 1;
   background: rgb(11, 109, 255);
-  width: 40%;
-  height: 100vh;
+  width: auto;
+  height: auto;
   position: relative;
-  text-align: center;
-  padding-top: 1rem;
+  /* text-align: center; */
+  padding: 3rem 3rem 13rem 3rem;
 }
 
 .form1__info h1 {
@@ -1048,6 +1051,7 @@ dd {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 2.4rem;
+  text-align: center;
 }
 
 .form1__info h4 {
@@ -1056,17 +1060,20 @@ dd {
   font-size: 1.5rem;
   width: 20rem;
   line-height: 1.95rem;
-  margin: auto;
+  /* margin: auto; */
+  text-align: center;
   word-spacing: 7px;
+  margin-bottom: 0.7rem;
 }
 
 .form1__info__btn {
   width: 7rem;
   height: 2.2rem;
-  margin-top: 0.6rem;
   background: white;
   border-width: thin;
   border-radius: 7px;
+  margin: auto;
+  display: block;
 }
 
 .form1__info__btn:hover {
@@ -1215,20 +1222,16 @@ dd {
   position: relative;
   width: 100%;
   max-width: 1440px;
-  min-height: 40vh;
-  height: fit-content;
+  height: auto;
   background: white;
-  /* top: 20.9rem; */
   z-index: 50;
 }
 
 .summary__content {
-  width: 90%;
-  height: 100%;
+  width: 100%;
+  height: auto;
   position: relative;
-  left: 0;
-  right: 0;
-  top: 3rem;
+  padding: 4rem 2rem 4rem 2rem;
   margin: auto;
 }
 
@@ -1238,6 +1241,7 @@ dd {
   font-size: 2.5rem;
   line-height: 4.2rem;
   text-align: center;
+  color: rgb(11, 109, 255);
 }
 
 .summary__content span {
@@ -1251,7 +1255,6 @@ dd {
   max-width: 1440px;
   height: 70vh;
   position: relative;
-  /* top: 20.9rem; */
   z-index: 50;
 }
 
@@ -1266,25 +1269,24 @@ dd {
 }
 
 .inspire__content {
-  position: relative;
-  left: 0;
-  right: 0;
-  top: 2rem;
+  height: 100%;
   margin: auto;
-  width: 0;
-  height: 80%;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .inspire__content__h1 {
   color: white;
   z-index: 1;
   position: relative;
-  right: -3.5rem;
-  width: 17rem;
+  width: 25rem;
   font-size: 1.1rem;
   word-spacing: 10px;
-  font-weight: normal;
+  font-weight: bold;
   font-style: italic;
+  opacity: 0.7;
 }
 
 .inspire__content span {
@@ -1320,7 +1322,7 @@ dd {
 }
 
 .gallery__clip:hover {
-  background: rgb(43, 128, 255);
+  background: rgb(36, 121, 247);
 }
 
 @keyframes show {
@@ -1353,19 +1355,18 @@ dd {
 }
 
 .gallery__a:hover {
-  color: rgb(43, 128, 255);
+  color: rgb(36, 121, 247);
 }
 
 footer {
   width: 100%;
   max-width: 1440px;
-  background-color: rgb(254, 241, 224);
+  background-color: white;
   min-height: 35vh;
   height: max-content;
   position: relative;
   left: 0;
   right: 0;
-  /* top: 27.9rem; */
   z-index: 50;
 }
 
