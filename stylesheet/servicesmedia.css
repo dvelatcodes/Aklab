@@ -808,8 +808,11 @@
 }
 
 @media screen and (max-width: 330px) {
-  .mech__left {
-    /* height: 170vh; */
+  .mech__left,
+  .elect__right,
+  .thermal,
+  .piping {
+    width: 90vw;
   }
 
   .start {

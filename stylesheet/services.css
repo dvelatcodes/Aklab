@@ -311,6 +311,7 @@ main {
   z-index: 2;
   padding: 2rem 2rem 2rem 2rem;
   cursor: pointer;
+  margin-bottom: 0.5rem;
 }
 
 .mech-img-left {
@@ -542,6 +543,7 @@ main {
   align-items: center;
   padding: 2rem 2rem 2rem 2rem;
   cursor: pointer;
+  margin-bottom: 0.5rem;
 }
 
 .thermal__img {
