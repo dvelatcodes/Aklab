@@ -160,7 +160,7 @@ header {
   position: absolute;
   right: 0;
   left: 0;
-  /* top: 5.3rem; */
+  top: 5.3rem;
   padding-top: 4px;
   line-height: 2rem;
   background: rgb(11, 109, 255);
@@ -200,7 +200,7 @@ header {
   position: absolute;
   right: 0;
   left: 0;
-  /* top: 5.3rem; */
+  top: 5.3rem;
   padding-top: 4px;
   line-height: 2rem;
   background: rgb(11, 109, 255);
