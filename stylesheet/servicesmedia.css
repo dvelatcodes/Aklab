@@ -2,27 +2,6 @@
   .start__white h5 {
     width: 90%;
   }
-  .start {
-    /* height: 120vh; */
-  }
-  .elect__right {
-    /* min-height: 130vh; */
-  }
-  .services2 {
-    /* height: 150vh; */
-  }
-
-  .piping {
-    /* height: 135vh; */
-  }
-
-  .service3 {
-    /* height: 210vh; */
-  }
-
-  .service3__ul {
-    /* height: 130vh; */
-  }
 }
 
 @media screen and (max-width: 1152px) {
@@ -32,13 +11,6 @@
 }
 
 @media screen and (max-width: 1150px) {
-  .mech__left {
-    /* height: 120vh; */
-  }
-
-  .thermal {
-    /* height: 120vh; */
-  }
   .mech__left h3,
   .elect__right h3,
   .thermal h3,
@@ -53,22 +25,6 @@
   .thermal h3,
   .piping h3 {
     width: 80%;
-  }
-}
-
-@media screen and (max-width: 1032px) {
-  .elect__right {
-    /* min-height: 150vh; */
-  }
-
-  .piping {
-    /* height: 150vh; */
-  }
-}
-
-@media screen and (max-width: 995px) {
-  .thermal {
-    /* height: 145vh; */
   }
 }
 
@@ -101,43 +57,8 @@
 }
 
 @media screen and (max-width: 905px) {
-  .start {
-    /* height: 136vh; */
-  }
-  .services2 {
-    /* height: 180vh; */
-  }
-  .mech__left {
-    /* height: 145vh; */
-  }
-
-  .service3 {
-    /* height: 235vh; */
-  }
-  .service3__ul {
-    /* height: 150vh; */
-  }
-
   .service3__ul__li h3 {
     width: 70%;
-  }
-}
-
-@media screen and (max-width: 859px) {
-  .start {
-    /* height: 170vh; */
-  }
-
-  .elect__right {
-    /* height: 180vh; */
-  }
-
-  .piping {
-    /* height: 180vh; */
-  }
-
-  .services2 {
-    /* height: 200vh; */
   }
 }
 
@@ -375,18 +296,6 @@
 }
 
 @media screen and (max-width: 766px) {
-  .start {
-    /* height: 170vh; */
-  }
-
-  .services2 {
-    /* height: 200vh; */
-  }
-
-  .service3 {
-    /* height: 230vh; */
-  }
-
   .start__ul__mech,
   .mech__left,
   .elect__right,
@@ -479,14 +388,6 @@
 }
 
 @media screen and (max-width: 766px) {
-  .service3 {
-    /* height: 240vh; */
-  }
-
-  .service3__ul {
-    /* height: 160vh; */
-  }
-
   .service3__ul__li h3 {
     font-size: 1.1rem;
   }
@@ -558,6 +459,10 @@
   .subhead__logo__img {
     padding-left: 2.5rem;
   }
+
+  .start__white {
+    top: -6.5rem;
+  }
 }
 
 @media screen and (max-width: 569px) {
@@ -567,12 +472,6 @@
 }
 
 @media screen and (max-width: 532px) {
-  .mech__left {
-    /* height: 160vh; */
-  }
-  .thermal {
-    /* height: 160vh; */
-  }
   .mech__left h3,
   .elect__right h3,
   .thermal h3,
@@ -622,22 +521,6 @@
   }
 }
 
-@media screen and (max-width: 507px) {
-  .start__white {
-    /* height: 32vh; */
-  }
-}
-
-@media screen and (max-width: 487px) {
-  .service3 {
-    /* height: 260vh; */
-  }
-
-  .service3__ul {
-    /* height: 180vh; */
-  }
-}
-
 @media screen and (max-width: 475px) {
   .nav__ul__li1 a,
   .nav__ul__li2 a,
@@ -653,6 +536,9 @@
 }
 
 @media screen and (max-width: 470px) {
+  .start__white {
+    top: -9rem;
+  }
   .start__ul__mech,
   .services__ul {
     flex-wrap: wrap;
@@ -663,23 +549,6 @@
   .thermal,
   .piping {
     width: 85vw;
-  }
-
-  .mech__left {
-    /* height: 135vh; */
-    /* margin-bottom: 1.5rem; */
-  }
-
-  .elect__right {
-    /* height: 160vh; */
-  }
-
-  .thermal {
-    /* margin-bottom: 1.5rem; */
-  }
-
-  .piping {
-    /* height: 170vh; */
   }
 
   .mech__left h3,
@@ -721,14 +590,6 @@
     font-size: 0.95rem;
   }
 
-  .services2 {
-    /* height: 260vh; */
-  }
-
-  .services2 {
-    /* height: 360vh; */
-  }
-
   .service3__ul__li h3 {
     font-size: 1rem;
   }
@@ -751,14 +612,6 @@
   .service3__ul__li h3 {
     width: 100%;
   }
-
-  .service3__ul {
-    /* height: 220vh; */
-  }
-
-  .service3 {
-    /* height: 300vh; */
-  }
 }
 
 @media screen and (max-width: 396px) {
@@ -768,6 +621,9 @@
 
   .footer__group__left h6 {
     font-size: 0.6rem;
+  }
+  .start__white {
+    top: -12rem;
   }
 }
 
@@ -794,16 +650,17 @@
     font-size: 0.85rem;
   }
 }
-@media screen and (max-width: 335px) {
+@media screen and (max-width: 336px) {
   .container {
     overflow-x: scroll;
-  }
-  .start__white {
-    /* padding-top: 0.1rem; */
   }
 
   .start__white h5 {
     text-decoration: underline;
+  }
+
+  .start__white {
+    top: -14rem;
   }
 }
 
@@ -815,33 +672,11 @@
     width: 90vw;
   }
 
-  .start {
-    /* height: 360vh; */
-  }
-
-  .services2 {
-    /* height: 360vh; */
-  }
-
-  .service3 {
-    /* height: 340vh; */
-  }
-
-  .service3__ul {
-    /* height: 270vh; */
-  }
-
   .mech__left h3,
   .elect__right h3,
   .thermal h3,
   .piping h3 {
     font-size: 0.8rem;
-  }
-}
-
-@media screen and (max-width: 328px) {
-  .elect__right {
-    /* height: 200vh; */
   }
 }
 
@@ -863,7 +698,9 @@
 @media screen and (max-width: 305px) {
   .start__white {
     width: 80%;
-    /* padding-top: 0.3rem; */
+  }
+  .start__white {
+    top: -9rem;
   }
 }
 @media screen and (max-width: 291px) {
@@ -884,22 +721,5 @@
 
   .footer__group__right small {
     font-size: 0.6rem;
-  }
-}
-
-@media screen and (max-width: 287px) {
-  .thermal {
-    /* height: 190vh; */
-  }
-  .piping {
-    /* height: 200vh; */
-  }
-
-  .services2 {
-    /* height: 420vh; */
-  }
-
-  .service3 {
-    /* height: 350vh; */
   }
 }
