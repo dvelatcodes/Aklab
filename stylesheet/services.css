@@ -11,8 +11,8 @@ body {
 
 .container {
   position: relative;
-  height: fit-content;
-  min-height: 100vh;
+  height: auto;
+  /* min-height: 100vh; */
   width: 100vw;
   max-width: 1440px;
   left: 0;
@@ -237,6 +237,7 @@ header {
 main {
   width: 100vw;
   max-width: 1440px;
+  height: auto;
 }
 
 .video {
@@ -259,7 +260,7 @@ main {
 }
 
 .start__white {
-  background: white;
+  background: rgb(255, 255, 255);
   width: 50%;
   height: auto;
   position: absolute;
@@ -676,23 +677,26 @@ main {
 .service3 {
   width: 100vw;
   max-width: 1440px;
-  height: 170vh;
+  height: auto;
   background: black;
   position: relative;
-  right: 0;
-  left: 0;
-  top: 5rem;
+  margin: auto;
+  padding-bottom: 3rem;
 }
 
 .service3__ul {
   width: 80vw;
   max-width: 1440px;
-  height: 100vh;
+  height: auto;
   border: 3px solid white;
-  position: absolute;
-  top: 20rem;
-  left: 0;
-  right: 0;
+  position: relative;
+  top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 2rem 2rem 2rem;
+  cursor: pointer;
   margin: auto;
 }
 
@@ -727,28 +731,26 @@ main {
 
 .service3__ul__li {
   width: 100%;
-  height: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 2rem 2rem 2rem;
 }
 
 .service3__ul__li h3 {
   position: relative;
-  left: 0;
-  right: 0;
-  margin: auto;
   color: rgb(254, 254, 254);
   width: 38vw;
   font-size: 1.3rem;
   z-index: 10;
-  top: 1rem;
   word-spacing: 7px;
 }
 
 .service3__ul__li h5 {
   position: relative;
-  left: 0;
-  right: 0;
   top: 1.5rem;
-  margin: auto;
   color: rgb(254, 254, 254);
   width: 60vw;
   font-size: 1rem;
@@ -761,10 +763,7 @@ main {
 
 .service3__ul__li__ul {
   position: relative;
-  height: 40vh;
-  left: 0;
-  right: 0;
-  margin: auto;
+  height: auto;
   color: rgb(254, 254, 254);
   width: 60vw;
   font-size: 1rem;
@@ -774,6 +773,8 @@ main {
   font-style: italic;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding-top: 1.8rem;
   list-style-type: disc;
 }
@@ -797,13 +798,12 @@ main {
 footer {
   width: 100%;
   max-width: 1440px;
-  background-color: rgb(254, 241, 224);
+  background-color: white;
   min-height: 25vh;
   height: max-content;
   position: relative;
   left: 0;
   right: 0;
-  top: 5rem;
 }
 
 .footer__group {

@@ -288,7 +288,7 @@ header {
 footer {
   width: 100%;
   max-width: 1440px;
-  background-color: rgb(254, 241, 224);
+  background-color: white;
   min-height: 25vh;
   height: max-content;
   position: relative;
