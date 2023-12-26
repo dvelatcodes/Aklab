@@ -239,6 +239,9 @@ main {
   max-width: 1440px;
 }
 
+.video {
+  background-color: black;
+}
 .video__video {
   width: 100%;
   max-width: 1440px;
@@ -251,7 +254,6 @@ main {
   background: black;
   width: 100%;
   max-width: 1440px;
-  height: 90vh;
   height: auto;
   position: relative;
 }
@@ -259,25 +261,24 @@ main {
 .start__white {
   background: white;
   width: 50%;
-  height: 22vh;
+  height: auto;
   position: absolute;
   left: 0;
   right: 0;
   margin: auto;
   top: -4rem;
   border-radius: 10px;
-  padding-top: 1.5rem;
+  padding: 2rem 2rem 2rem 2rem;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .start__white h5 {
   width: 60%;
-  height: 50%;
+  height: auto;
   position: relative;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  margin: auto;
   font-size: 1.2rem;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -291,15 +292,10 @@ main {
 .start__ul__mech {
   width: 80vw;
   max-width: 1440px;
-  /* height: 100vh;
-  min-height: fit-content; */
   height: auto;
   position: relative;
-  /* top: 7rem; */
-  left: 0;
-  right: 0;
   margin: auto;
-  /* margin-top: 10rem; */
+  padding-top: 6rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -380,7 +376,7 @@ main {
 .mech__left__ul,
 .thermal__ul {
   position: relative;
-  height: 40vh;
+  /* height: 40vh; */
   height: auto;
   left: 0;
   right: 0;
@@ -428,10 +424,15 @@ main {
 .elect__right {
   width: 38.4vw;
   max-width: 720px;
-  min-height: 100vh;
-  height: fit-content;
+  /* min-height: 100vh; */
+  height: auto;
   position: relative;
   border: 3px solid white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem 2rem 2rem 2rem;
   z-index: 2;
 }
 
@@ -516,6 +517,7 @@ main {
   max-width: 1440px;
   height: 127vh;
   background: rgb(210, 210, 210);
+  background: black;
   position: relative;
   right: 0;
   left: 0;
